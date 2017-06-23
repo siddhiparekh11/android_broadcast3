@@ -7,6 +7,6 @@ There are three repositories for this application i.e. this application is compo
 <Image src="https://user-images.githubusercontent.com/21295081/27498165-a6b9e6b0-5812-11e7-8c26-9faac81bfaf1.jpeg" width="500"/>
 
 <Image src="https://user-images.githubusercontent.com/21295081/27498014-129a3e44-5812-11e7-89a0-810b636f3fd5.jpeg" width="500"/>
-<p>If the temperature value is greater than 100</p>
+<p>If the temperature value is greater than 90 and less than 125, the button 'Fan and Sprinklers' gets enabled in the controller app(android_boradcast1).</p>
 <Image src="https://user-images.githubusercontent.com/21295081/27498016-141dbc3c-5812-11e7-8d09-1997a1e061f1.jpeg" width="500"/>
 
