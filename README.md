@@ -4,6 +4,7 @@ There are three repositories for this application i.e. this application is compo
 
 <Image src="https://user-images.githubusercontent.com/21295081/27497595-4c835926-5810-11e7-9bcc-1d3df0b34bdd.jpeg" width="500"/>
 <p>When the user enters the value of temperature and humidity and click 'Set', this app sends a broadcast to the controller app(android_broadcast1).</p>
+<p>If the temperature value is greater than 70 and less than 90, the button 'Turn Fan' gets enabled in the controller app(android_boradcast1).</p>
 <Image src="https://user-images.githubusercontent.com/21295081/27498165-a6b9e6b0-5812-11e7-8c26-9faac81bfaf1.jpeg" width="500"/>
 
 <Image src="https://user-images.githubusercontent.com/21295081/27498014-129a3e44-5812-11e7-89a0-810b636f3fd5.jpeg" width="500"/>
